@@ -1,6 +1,5 @@
 # 📈 YES BANK STOCK PRICE PREDICTION
 
-
 ## 🚀 Project Overview
 
 This project focuses on forecasting the monthly closing prices of **Yes Bank shares** using advanced ensemble machine learning models. Accurate price prediction is crucial for financial decision-making, and this solution is tailored for that purpose using a structured ML pipeline with rigorous analysis and modeling techniques.
@@ -55,7 +54,6 @@ Models were evaluated using:
 - **Scikit-learn** – ML preprocessing and modeling
 - **XGBoost** – Advanced gradient boosting
 - **Google Colab** – Notebook environment
-
 ---
 
 ## 📈 Results
