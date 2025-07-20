@@ -1,8 +1,8 @@
-# 📈 YES BANK STOCK PRICE PREDICTION
+# 📈 Yes Bank Stock Price Prediction
 
 ## 🚀 Project Overview
 
-This project focuses on forecasting the monthly closing prices of **Yes Bank shares** using advanced ensemble machine learning models. Accurate price prediction is crucial for financial decision-making, and this solution is tailored for that purpose using a structured ML pipeline with rigorous analysis and modeling techniques.
+This project focuses on forecasting the monthly closing prices of **Yes Bank shares** using advanced ensemble machine learning models. Accurate price prediction is crucial for financial decision-making and this solution is tailored for that purpose using a structured ML pipeline with rigorous analysis and modeling techniques.
 
 ---
 
@@ -19,10 +19,10 @@ The share prices of **Yes Bank** have shown significant volatility over the year
 - Removed irrelevant columns to focus on informative features.
 
 ### 2. 📈 Exploratory Data Analysis (EDA)
-Following the **UBM Rule**:
-- **Univariate Analysis**: Distribution of individual variables.
-- **Bivariate Analysis**: Relationships between features and the target.
-- **Multivariate Analysis**: Correlation heatmaps and multi-feature plots.
+Following the **UBM Rule** -
+- **Univariate Analysis** - Distribution of individual variables.
+- **Bivariate Analysis** - Relationships between features and the target.
+- **Multivariate Analysis** - Correlation heatmaps and multi-feature plots.
 
 ### 3. 🧪 Hypothesis Testing
 - Applied statistical tests to verify assumptions regarding feature influence.
@@ -39,7 +39,7 @@ Used three powerful ensemble models:
 - **XGBoost Regressor**
 
 ### 6. ✅ Evaluation Metrics
-Models were evaluated using:
+Models were evaluated using -
 - **Root Mean Squared Error (RMSE)**
 - **Mean Absolute Error (MAE)**
 - **R² Score**
