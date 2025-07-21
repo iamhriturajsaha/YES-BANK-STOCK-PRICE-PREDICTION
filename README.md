@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project focuses on forecasting the monthly closing prices of **Yes Bank shares** using advanced ensemble machine learning models. Accurate price prediction is crucial for financial decision-making and this solution is tailored for that purpose using a structured ML pipeline with rigorous analysis and modeling techniques.
+This project focuses on forecasting the monthly closing prices of **Yes Bank Shares** using advanced ensemble machine learning models. Accurate price prediction is crucial for financial decision-making and this solution is tailored for that purpose using a structured ML pipeline with rigorous analysis and modeling techniques.
 
 ---
 
