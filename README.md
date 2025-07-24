@@ -1,4 +1,4 @@
-# 📈 Yes Bank Stock Price Prediction
+# 📈Yes Bank Stock Price Prediction
 
 ## 🚀 Project Overview
 
