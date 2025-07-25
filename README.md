@@ -59,3 +59,5 @@ Models were evaluated using -
 ## 📈 Results
 
 All three models showed promising performance, with **Gradient Boosting Regressor** slightly outperforming the others in terms of RMSE and R². The final model is capable of providing reliable closing price forecasts for Yes Bank.
+
+![Results](Results.png)
